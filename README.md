@@ -8,4 +8,8 @@ without the code from menus.
 
 It also loads the page contents without refreshing the whole page, thanks to Angular.js.
 
+Please take a look at the file js/main.js. It is responsible for loading all the
+pages using Angular.js. It will be useful in case you want to add or remove the
+existing pages.
+
 Enjoy.
